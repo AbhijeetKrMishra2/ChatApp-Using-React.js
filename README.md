@@ -1,4 +1,4 @@
-# ChatApp-React-Coding-Ninjas
+# React-ChatApp-Coding-Ninjas
 
 # Hosted-Website Link : - https://cheerful-dango-85a3c4.netlify.app/#/
 
